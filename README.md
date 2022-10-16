@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.com/K1llMan/Yandex.Music.Api.svg?branch=master)](https://travis-ci.com/K1llMan/Yandex.Music.Api)
 [![Documentation Status](https://readthedocs.org/projects/yandexmusicapicsharp/badge/?version=latest)](https://yandexmusicapicsharp.readthedocs.io/ru/latest/?badge=latest)
+[![Nuget API](https://img.shields.io/nuget/dt/KM.Yandex.Music.Api)](https://www.nuget.org/packages/KM.Yandex.Music.Api/)
+[![Nuget Client](https://img.shields.io/nuget/dt/KM.Yandex.Music.Client)](https://www.nuget.org/packages/KM.Yandex.Music.Client/)
 
  
- Yandex.Music API (Unofficial) for .Net Core
+ Yandex.Music API (Unofficial) for .Net
 ====
 
 Форк [Yandex.Music API (Unofficial) for .Net Core](https://github.com/Winster332/Yandex.Music.Api)
